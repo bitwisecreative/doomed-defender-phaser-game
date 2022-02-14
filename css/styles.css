@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'G7 Silkworm';
+    font-style: normal;
+    font-weight: 400;
+    src: local('G7 Silkworm'), url(../fonts/g7_silkworm.woff) format('woff');
+}
+
+@font-face {
+    font-family: 'G7 Star Force';
+    font-style: normal;
+    font-weight: 400;
+    src: local('G7 Star Force'), url(../fonts/g7_star_force.woff) format('woff'); 
+}
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+    background: url("../img/bg.png") #000;    
+}
