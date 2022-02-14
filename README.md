@@ -3,6 +3,8 @@
 
 A game I created in Phaser some years ago.
 
+#### [Play](https://bitwisecreative.com/github/doomed-defender/)
+
 ----
 
 ![Doomed Defender Phaser Game](https://bitwisecreative.com/site/assets/files/1025/doomed-defender-html5-retro-game.jpg)
